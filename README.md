@@ -12,6 +12,7 @@
 [<img width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img width="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
+[<img width="40" src="https://img.icons8.com/dotty/80/000000/portfolio.png" />][portfolio]
 <br />
 
 ### Languages, Tools and Tech
