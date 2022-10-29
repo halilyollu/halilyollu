@@ -29,6 +29,7 @@
     <img src = 'https://helpx.adobe.com/content/dam/help/en/xd/get-started/jcr_content/main-pars/step_with_text/step-with-text-pars/imageandtext/imageandtextimage/XD.png' width='40' height='40'>
     <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png' width='40' height='40'>
     <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='40' height='40'>
+    <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' width='40' height='40'>
     <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' width='40' height='40'>
 </div>
 
