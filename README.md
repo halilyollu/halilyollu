@@ -58,4 +58,3 @@
 [instagram]: https://www.instagram.com/halil.yll/
 [linkedin]: https://www.linkedin.com/in/halil-yollu-17b8b9207/
 [portfolio]: https://halilyollu.github.io/halil-yollu.github.io/myPortfolio/
-[path1]: https://github-readme-stats.vercel.app/api?username=halilyollu&theme=react&hide_border=false&include_all_commits=false&count_private=false
