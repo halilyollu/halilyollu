@@ -3,11 +3,12 @@
 # Hi there, I'm Halil Yollu :blush: 
 ## I am Frontend Developer
 
-### After June 2022, I will graduate from Pamukkale University Computer Engineering. I'm currently learning Ajax, Typescript and React.
+# 💫 About Me:
+### I graduated from Pamukkale University computer engineering department as of January 23, 2023. I am currently working as a Frontend Software Intern at TCM Bilişim ve Danışmanlık. We develop projects with Sharepoint, Reactjs, Typescript.
 
 <img src='https://komarev.com/ghpvc/?username=halilyollu&color=blueviolet'>
 
-### Reach out to me
+### 🌐 Reach out to me
 
 [<img width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
@@ -15,7 +16,7 @@
 [<img width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-job-search-flaticons-lineal-color-flat-icons-2.png" />][portfolio]
 <br />
 
-### Languages, Tools and Tech
+# 💻 Languages, Tools and Tech
 <div align='center'>
     <img src='https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-tick-delivery-kiranshastry-lineal-color-kiranshastry.png' width='35' height='35'><img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='40' height='40'>
     <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='40' height='40'>
@@ -41,6 +42,8 @@
     <details width='300'>
     <summary>:bulb: Github Stats</summary>
     <img src='https://github-readme-stats.vercel.app/api?username=halilyollu&theme=radical'>
+    ![](https://github-readme-stats.vercel.app/api?username=halilyollu&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=halilyollu&theme=react&hide_border=false)<br/>
     </details>
     <details width='300'>
     <summary>:bulb: Most Used Languages</summary>
