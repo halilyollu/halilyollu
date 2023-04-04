@@ -9,7 +9,6 @@
 <img src='https://komarev.com/ghpvc/?username=halilyollu&color=blueviolet'>
 
 ### 🌐 Reach out to me
-
 [<img width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img width="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
@@ -42,8 +41,6 @@
     <details width='300'>
     <summary>:bulb: Github Stats</summary>
     <img src='https://github-readme-stats.vercel.app/api?username=halilyollu&theme=radical'>
-    ![](https://github-readme-stats.vercel.app/api?username=halilyollu&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=halilyollu&theme=react&hide_border=false)<br/>
     </details>
     <details width='300'>
     <summary>:bulb: Most Used Languages</summary>
@@ -61,3 +58,4 @@
 [instagram]: https://www.instagram.com/halil.yll/
 [linkedin]: https://www.linkedin.com/in/halil-yollu-17b8b9207/
 [portfolio]: https://halilyollu.github.io/halil-yollu.github.io/myPortfolio/
+[path1]: https://github-readme-stats.vercel.app/api?username=halilyollu&theme=react&hide_border=false&include_all_commits=false&count_private=false
